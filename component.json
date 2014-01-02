@@ -1,0 +1,8 @@
+{
+  "name": "hydrajs-sandbox-plugin",
+  "repo": "HydraJS/hydrajs-sandbox-plugin",
+  "description": "Hydra.js plugin to continue using the old sandbox system to manage events in new releases.",
+  "version": "1.0.0",
+  "scripts": ["versions/hydrajs-sandbox-plugin.min.js"],
+  "main": "versions/hydrajs-sandbox-plugin.min.js"
+}
